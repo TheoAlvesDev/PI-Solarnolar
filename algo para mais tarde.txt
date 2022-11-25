@@ -1,0 +1,19 @@
+<i class='bx bxs-chevron-down js-arrow arrow '></i>
+					<ul class="js-sub-menu sub-menu">
+					  <li><a href="#">.</a></li>
+					  <li><a href="#">.</a></li>
+					  <li><a href="#">.</a></li>
+					  <li><a href="#">.</a></li> (NA PARTE DE DUVIDAS E CURIOSIDADES)
+					</ul>
+
+
+
+<li class="more">
+						<span><a href="#">+</a>
+						<i class='bx bxs-chevron-right arrow more-arrow'></i>
+					  </span>
+						<ul class="more-sub-menu sub-menu">
+						  <li><a href="#">.</a></li>
+						  <li><a href="#">.</a></li>                           
+						  <li><a href="#">.</a></li> (NA PARTE DE ENERGIA)
+						</ul>
